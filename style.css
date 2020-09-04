@@ -1,0 +1,11 @@
+
+.Прямоугольник__скругл__углы_1 {
+  border-radius: 10px;
+  background-color: rgb(89, 125, 163);
+  position: absolute;
+  left: 30px;
+  top: 100px;
+  width: 920px;
+  height: 380px;
+  z-index: 7;
+}
